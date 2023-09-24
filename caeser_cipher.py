@@ -12,6 +12,7 @@ def encrypt(text,s):
     return result
 
 #check the above function
+print("ceaesercipher")
 text=input("Enter the text to encrypt: ")
 s = 3
 print("Text : " + text)
